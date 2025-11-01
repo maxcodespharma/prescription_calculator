@@ -61,6 +61,20 @@ Total Cost: $28.80
 - Insurance coverage calculation
 - Refill scheduling
 
+## Version History
+
+**v1.1** (November 1, 2025)
+- Added file export feature
+- Prescriptions can be saved to dated text files
+- Persistent storage of prescription summaries
+
+**v1.0** (October 30, 2025)
+- Initial release
+- Multi-prescription processing
+- Cost calculation and tracking
+- Sig generation
+- Summary reports
+
 ## Tech + Learning Focus
 This was my 2nd project and it helped me understand the differences between embedded code (my drug lookup database) vs using temporary memory via append(). While I didn't grasp this nuance at first, I had an AHA moment about it and wanted to share it here. I will continue to build upon my beginner-level programs, improving my overall fluency to bridge the gap between clinical pharmaceuticals and AI/coding knowledge.
 
